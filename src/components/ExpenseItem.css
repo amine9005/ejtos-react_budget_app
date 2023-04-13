@@ -1,0 +1,24 @@
+
+
+.addBtn{
+    background-color: #fff;
+    font-size: 3rem;
+    color: #02ff20;
+    border: none;
+    cursor: pointer;
+}
+.delBtn{
+    background-color: #fff;
+    font-size: 3rem;
+    color: #ff442b;
+    cursor: pointer;
+}
+
+
+.minBtn{
+    background-color: fff;
+    font-size: 3rem;
+    color: #fffb00;
+    border: none;
+    cursor: pointer;
+}
